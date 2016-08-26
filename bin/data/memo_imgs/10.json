@@ -1,0 +1,25 @@
+{
+	"timestamp": "Thu Aug 25 14:53:37 GMT+08:00 2016",
+	"image_path": "/path/goes/here",
+	"gps": {
+		"lat": 31.249881,
+		"lon": 121.444652,
+		"alt": 0.0
+	},
+	"attention": 35,
+	"meditation": 87,
+	"raw": "",
+	"sensors": {
+		"light": 33.0,
+		"acceleration": {
+			"x": -0.077,
+			"y": 0.153,
+			"z": 9.117
+		},
+		"orientation": {
+			"x": 338.444849,
+			"y": -71.499088,
+			"z": 2.917767
+		}
+	}
+}
